@@ -1,8 +1,3 @@
 # Ignore all .csv files as well as txt, as there is data of participants
 *.csv
 *.txt
-
-# Ignore all .png files
-*.png
-
-*checkpoint.ipynb
